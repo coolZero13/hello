@@ -1,0 +1,2 @@
+var once = function(func){
+};
